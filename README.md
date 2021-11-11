@@ -5,10 +5,10 @@ Requisitos:\
     neuralprophet\
     pandas\
     matplotlib\
-    pickle\
+    pickle
 
 Para utilizar a rede com os pesos definidos:\
     op = 0\
 Para treinar a rede com os próprios dados:\
     op = 1\
-    Preparar os dados em arquivo .csv\
+    Preparar os dados em arquivo .csv
